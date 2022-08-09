@@ -17,10 +17,10 @@ int _strlen(const char *s)
 }
 
 /**
- * _printf - prints anything
- * @format: the format string
+ * _printf - Prints anything
+ * @format: The format string
  *
- * Return: the number of characters printed
+ * Return: The number of characters printed
  */
 int _printf(const char *format, ...)
 {

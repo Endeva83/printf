@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _pow - calculates an exponent
- * @base: base of exponent
- * @exponent: exponent of number
+ * _pow - calculates an exponent.
+ * @base: base of exponent.
+ * @exponent: exponent of number.
  *
  * Return: base ^ exponent
  */
