@@ -1,1 +1,1 @@
-A collaborative printf project by Solomon and Sarah
+A collaborative printf project by Adesubokan Solomon and Yusuf Sarah

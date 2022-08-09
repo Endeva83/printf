@@ -5,7 +5,7 @@
  * @base: base of exponent.
  * @exponent: exponent of number.
  *
- * Return: base ^ exponent
+ * Return: base ^ exponent.
  */
 static unsigned long _pow(unsigned int base, unsigned int exponent)
 {

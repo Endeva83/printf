@@ -4,7 +4,7 @@
  * _get_printer - checks for a registered printer for a given specifier
  * @specifier: the specifier to get a printer for
  *
- * Return: the printer found. If no valid printer exists,
+ * Return: the printer found, If no valid printer exists.
  * a default NULL-based printer is returned
  */
 printer _get_printer(const char *specifier)
